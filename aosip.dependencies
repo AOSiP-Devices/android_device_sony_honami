@@ -85,15 +85,9 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "SonyAosp/vendor_broadcom", 
-   "target_path" : "vendor/broadcom",
-   "branch"      : "android-7.0"
- },
- {
-   "remote"      : "github",
-   "repository"  : "SonyAosp/vendor_nxp",
-   "target_path" : "vendor/nxp",
-   "branch"      : "android-7.0"
+   "repository"  : "sonyxperiadev/vendor-broadcom-wlan", 
+   "target_path" : "vendor/broadcom/wlan",
+   "branch"      : "master"
  },
  {
    "remote"      : "github",
