@@ -55,7 +55,7 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "SonyAosp/vendor_qcom",
+   "repository"  : "markakash/vendor-qcom",
    "target_path" : "vendor/qcom",
    "branch"      : "android-7.0"
  },
@@ -67,7 +67,7 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "SonyAosp/vendor_sony",
+   "repository"  : "markakash/vendor-sony",
    "target_path" : "vendor/sony",
    "branch"      : "android-7.0"
  },
@@ -91,7 +91,7 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "SonyLOS/android_device_sony_rhine-common",
+   "repository"  : "markakash/android_device_sony_rhine-common",
    "target_path" : "device/sony/rhine-common",
    "branch"      : "cm-14.1"
  }
