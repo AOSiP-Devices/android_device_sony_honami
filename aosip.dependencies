@@ -1,9 +1,9 @@
 [
  {
    "remote"      : "github",
-   "repository"  : "SonyLOS/android_hardware_sony_camera",
+   "repository"  : "SonyAosp/platform_hardware_qcom_camera",
    "target_path" : "hardware/sony/camera",
-   "branch"      : "cm-14.1"
+   "branch"      : "android-7.1-3.10"
  },
  {
    "remote"      : "github",
@@ -13,45 +13,45 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "sonyxperiadev/device-sony-sepolicy",
+   "repository"  : "SonyAosp/device_sony_sepolicy",
    "target_path" : "device/sony/sepolicy",
-   "branch"      : "n-mr1"
+   "branch"      : "android-7.1-3.10"
  },
  {
    "remote"      : "github",
-   "repository"  : "LineageOS/android_device_sony_common",
+   "repository"  : "SonyAosp/device_sony_common",
    "target_path" : "device/sony/common",
-   "branch"      : "cm-14.1"
+   "branch"      : "android-7.1-3.10"
  },
  {
    "remote"      : "github",
-   "repository"  : "LineageOS/android_hardware_sony_thermanager",
+   "repository"  : "SonyAosp/platform_hardware_sony_thermanager",
    "target_path" : "hardware/sony/thermanager",
-   "branch"      : "cm-14.1"
+   "branch"      : "master"
  },
  {
    "remote"      : "github",
-   "repository"  : "LineageOS/android_hardware_sony_timekeep",
+   "repository"  : "SonyAosp/platform_hardware_sony_timekeep",
    "target_path" : "hardware/sony/timekeep",
-   "branch"      : "cm-14.1"
+   "branch"      : "master"
  },
  {
    "remote"      : "github",
-   "repository"  : "LineageOS/android_hardware_sony_macaddrsetup",
+   "repository"  : "SonyAosp/platform_hardware_sony_macaddrsetup",
    "target_path" : "hardware/sony/macaddrsetup",
-   "branch"      : "cm-14.1"
+   "branch"      : "master"
  },
  {
    "remote"      : "github",
-   "repository"  : "SonyLOS/android_device_sony_common-aosp",
-   "target_path" : "device/sony/common-aosp",
-   "branch"      : "cm-14.1"
+   "repository"  : "SonyAosp/platform_hardware_sony_init",
+   "target_path" : "hardware/sony/init",
+   "branch"      : "android-7.1-3.10"
  },
  {
    "remote"      : "github",
-   "repository"  : "sonyxperiadev/kernel",
+   "repository"  : "SonyAosp/kernel",
    "target_path" : "kernel/sony/msm",
-   "branch"      : "aosp/LA.BR.1.3.3_rb2.14"
+   "branch"      : "android-7.0"
  },
  {
    "remote"      : "github",
@@ -73,7 +73,7 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "sonyxperiadev/vendor-qcom-opensource-dataservices",
+   "repository"  : "SonyAosp/platform_hardware_sony_dataservices",
    "target_path" : "hardware/sony/dataservices",
    "branch"      : "master"
  },
@@ -91,8 +91,8 @@
  },
  {
    "remote"      : "github",
-   "repository"  : "markakash/android_device_sony_rhine-common",
-   "target_path" : "device/sony/rhine-common",
-   "branch"      : "cm-14.1"
+   "repository"  : "SonyAosp/device_sony_rhine",
+   "target_path" : "device/sony/rhine",
+   "branch"      : "android-7.1-3.10"
  }
 ]
